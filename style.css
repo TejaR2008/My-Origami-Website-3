@@ -1,0 +1,44 @@
+.header{
+    display: flex;
+    justify-content: center;
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+    font-size: 25px;
+}
+
+.header2{
+    display: flex;
+    justify-content: center;
+    color: aqua;
+    font-size: 20px;
+}
+
+.bg{
+    background-image: url("Origami.jpg");
+    padding: 50px;
+    background-size: cover;
+}
+
+.bg2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 25px;
+    font-size: 20px;
+    color: rgb(4, 8, 10);
+}
+
+.item{
+border-radius: 20px;
+background-color: #ffffff;
+padding: 30px;
+margin: 25px;
+width: 310px;
+}
